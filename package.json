@@ -166,7 +166,7 @@
       "vue-demi"
     ],
     "overrides": {
-      "magic-string": "0.30.15"
+      "magic-string": "0.30.17"
     }
   }
 }
